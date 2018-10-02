@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_articles">Sorry, no articles found currently</string>
+    <string name="title_unavailable">Title currently unavailable</string>
+    <string name="section_unavailable">Section name unavailable</string>
+    <string name="date_unavailable">Date info unavailable</string>
+    <string name="empty_view">Newsfeed data unavailable</string>
+
+
+</resources>
